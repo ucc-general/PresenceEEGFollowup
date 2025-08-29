@@ -73,6 +73,21 @@
 		{
 			"Name": "SERIALCOM",
 			"Enabled": true
+		},
+		{
+			"Name": "LabStreamingLayer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e204576bd4de4bfdaad28c06133def5c"
+		},
+		{
+			"Name": "OpenXREyeTracker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
 		}
 	],
 	"TargetPlatforms": [
